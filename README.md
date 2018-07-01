@@ -1,4 +1,4 @@
-# bbedit_syntax_highlighting
+# BBEdit syntax highlighting
 BBEdit Syntax Hilighting Screenshots
 
 ## 1. This is screenshot 1 with a problem in the syntax hilighting
