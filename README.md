@@ -14,6 +14,9 @@ Use "&mdash;" (&amp;mdash;) character instead of "-" character in HTML comments
 
 ## Details
 
+### Software/OS
+BBEdit version 12.1.4, June 2018/Mac OS High Sierra
+
 ### 1. This is screenshot 1 with a problem in the syntax hilighting
 ![screenshot 1](https://github.com/uschmelzer/bbedit_syntax_highlighting/blob/master/screenshot1b.png)
 
