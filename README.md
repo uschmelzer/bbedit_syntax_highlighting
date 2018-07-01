@@ -1,5 +1,4 @@
 # BBEdit syntax highlighting
-BBEdit Syntax Hilighting Screenshots
 
 ## 1. This is screenshot 1 with a problem in the syntax hilighting
 ![screenshot 1](https://github.com/uschmelzer/bbedit_syntax_highlighting/blob/master/screenshot1b.png)
