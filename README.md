@@ -1,7 +1,7 @@
 # BBEdit syntax highlighting
 
 ## TLDR
-Use &mdash; character instead of "-" character in HTML comments
+Use "&mdash;" (&amp;mdash;) character instead of "-" character in HTML comments
 
 ### This is how it looks
     <!--
